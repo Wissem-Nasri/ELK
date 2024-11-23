@@ -30,4 +30,4 @@ Integration: APM integrates with Elasticsearch to store and analyze performance 
 Ensures secure communication between all components of the ELK stack, using SSL/TLS certificates to encrypt data transmission.
 Role: Secure communication within the ELK stack and between all services (Elasticsearch, Kibana, Fleet Server, Elastic Agents, etc.).
 
-![Untitled Diagram (19)](https://github.com/user-attachments/assets/8d0132c2-2148-4e23-9625-1a99e7db660d)
+![Untitled Diagram (20)](https://github.com/user-attachments/assets/a57f9495-8df5-4ccd-96dc-e86f53296841)
