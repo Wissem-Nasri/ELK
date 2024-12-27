@@ -1,0 +1,39 @@
+Nov 24 00:01:01 localhost CROND[3441]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 24 00:01:01 localhost run-parts[3444]: (/etc/cron.hourly) starting 0anacron
+Nov 24 00:01:01 localhost anacron[3454]: Anacron started on 2024-11-24
+Nov 24 00:01:01 localhost anacron[3454]: Normal exit (0 jobs run)
+Nov 24 00:01:01 localhost run-parts[3456]: (/etc/cron.hourly) finished 0anacron
+Nov 24 00:01:01 localhost CROND[3440]: (root) CMDEND (run-parts /etc/cron.hourly)
+Nov 28 19:21:48 localhost crond[1208]: (CRON) STARTUP (1.5.7)
+Nov 28 19:21:48 localhost crond[1208]: (CRON) INFO (Syslog will be used instead of sendmail.)
+Nov 28 19:21:48 localhost crond[1208]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 49% if used.)
+Nov 28 19:21:48 localhost crond[1208]: (CRON) INFO (running with inotify support)
+Nov 28 20:01:01 localhost CROND[19740]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 28 20:01:01 localhost run-parts[19743]: (/etc/cron.hourly) starting 0anacron
+Nov 28 20:01:01 localhost anacron[19753]: Anacron started on 2024-11-28
+Nov 28 20:01:01 localhost anacron[19753]: Will run job `cron.daily' in 20 min.
+Nov 28 20:01:01 localhost anacron[19753]: Will run job `cron.weekly' in 40 min.
+Nov 28 20:01:01 localhost anacron[19753]: Jobs will be executed sequentially
+Nov 28 20:01:01 localhost run-parts[19755]: (/etc/cron.hourly) finished 0anacron
+Nov 28 20:01:01 localhost CROND[19739]: (root) CMDEND (run-parts /etc/cron.hourly)
+Nov 28 20:21:01 localhost anacron[19753]: Job `cron.daily' started
+Nov 28 20:21:01 localhost anacron[19753]: Job `cron.daily' terminated
+Nov 28 20:41:01 localhost anacron[19753]: Job `cron.weekly' started
+Nov 28 20:41:01 localhost anacron[19753]: Job `cron.weekly' terminated
+Nov 28 20:41:01 localhost anacron[19753]: Normal exit (2 jobs run)
+Nov 28 21:01:01 localhost CROND[39608]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 28 21:01:01 localhost run-parts[39611]: (/etc/cron.hourly) starting 0anacron
+Nov 28 21:01:01 localhost run-parts[39617]: (/etc/cron.hourly) finished 0anacron
+Nov 28 21:01:01 localhost CROND[39607]: (root) CMDEND (run-parts /etc/cron.hourly)
+Nov 28 21:12:33 WissemNasri crond[1326]: (CRON) STARTUP (1.5.7)
+Nov 28 21:12:33 WissemNasri crond[1326]: (CRON) INFO (Syslog will be used instead of sendmail.)
+Nov 28 21:12:33 WissemNasri crond[1326]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 13% if used.)
+Nov 28 21:12:33 WissemNasri crond[1326]: (CRON) INFO (running with inotify support)
+Nov 28 22:01:01 WissemNasri CROND[24312]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 28 22:01:01 WissemNasri run-parts[24315]: (/etc/cron.hourly) starting 0anacron
+Nov 28 22:01:01 WissemNasri run-parts[24321]: (/etc/cron.hourly) finished 0anacron
+Nov 28 22:01:01 WissemNasri CROND[24311]: (root) CMDEND (run-parts /etc/cron.hourly)
+Nov 28 23:01:01 WissemNasri CROND[44698]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 28 23:01:01 WissemNasri run-parts[44701]: (/etc/cron.hourly) starting 0anacron
+Nov 28 23:01:02 WissemNasri run-parts[44707]: (/etc/cron.hourly) finished 0anacron
+Nov 28 23:01:02 WissemNasri CROND[44697]: (root) CMDEND (run-parts /etc/cron.hourly WissemNasri.SSIR.D )
